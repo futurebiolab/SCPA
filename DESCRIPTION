@@ -26,4 +26,3 @@ Imports: clusterProfiler, NMF, ggraph, clustree, Seurat, magrittr,
         scDblFinder, SingleR, wesanderson
 Author: Ruiqing Zhai [aut, cre, ctb],
   Shidian He [aut, ctb]
-Built: R 4.0.0; ; 2022-05-21 12:07:11 UTC; windows
