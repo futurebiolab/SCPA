@@ -12,6 +12,7 @@ setwd("./SCPA/test/pbmc5k")
 
 ````R
 library(SCPA)
+library(clustree)
 ````
 
  Creating the result file 
